@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Netflix
+Comment=Simple Browser For Netflix
+Terminal=False
+Icon=/home/mrquinlan/netflix/netflix.png
+Exec=python3 /home/mrquinlan/netflix/Netflix.py
